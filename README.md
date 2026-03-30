@@ -79,15 +79,15 @@
 
 ### Taylor Diagram
 
-![Taylor Diagram](results/figures/metrics and visulaisation.docx)
+[Taylor Diagram](results/figures/metrics and visulaisation.docx)
 
 ### Feature Importance
 
-![Feature Importance](results/figures/metrics and visulaisation.docx)
+[Feature Importance](results/figures/metrics and visulaisation.docx)
 
 ### State-wise Performance
 
-![State-wise](results/figures/metrics and visulaisation.docx)
+[State-wise](results/figures/metrics and visulaisation.docx)
 
 ---
 

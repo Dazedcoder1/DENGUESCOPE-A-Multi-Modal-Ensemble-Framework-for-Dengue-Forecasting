@@ -75,7 +75,7 @@
 
 ---
 
-## 📈 Visual Evidence
+## Visual Evidence
 
 ### Taylor Diagram
 
@@ -120,7 +120,7 @@
 | CatBoost | 96.62     | 0.1418     |
 | Ensemble | **97.11** | **0.1385** |
 
-✔ Ensemble provides **best uncertainty reliability**
+ Ensemble provides **best uncertainty reliability**
 
 ---
 

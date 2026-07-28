@@ -1,0 +1,8 @@
+Model,Accuracy (%),Training Time (s),Prediction Time (s),Total Time (s),Peak Memory (MB),Accuracy Gain (%),Relative Time (× CatBoost)
+Proposed Weighted Ensemble,97.47,12.11,0.239,12.35,1061.66,1.2,6.92
+CatBoost,96.27,1.78,0.003,1.78,1060.08,0.0,1.0
+Stacking (Meta),93.06,12.11,0.24,12.35,1061.74,-3.21,6.92
+LSTM,88.67,10.33,0.236,10.56,1061.66,-7.6,5.92
+AdaBoost,,1.75,0.028,1.78,1061.67,,1.0
+Gradient Boosting,,6.12,0.003,6.12,1061.67,,3.43
+Bagging,,1.56,0.007,1.57,1061.74,,0.88

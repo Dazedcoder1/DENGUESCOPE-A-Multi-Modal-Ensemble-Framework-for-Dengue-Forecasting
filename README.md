@@ -108,8 +108,8 @@
 
 | Comparison           | DM Statistic | p-value  | Result          |
 | -------------------- | ------------ | -------- | --------------- |
-| Ensemble vs CatBoost | -0.234       | 0.814    | Not Significant |
-| Ensemble vs LSTM     | -5.836       | 5.33e-09 | Significant     |
+| Ensemble vs CatBoost | -0.2342       | 0.814    | Not Significant |
+| Ensemble vs LSTM     | -5.8458       | 5.33e-09 | Significant     |
 
 ---
 
